@@ -3,4 +3,4 @@
 </br>
 https://oshpark.com/shared_projects/f5r7V8VG
 </br>
-<img src="https://raw.githubusercontent.com/studiohsoftware/Teensy41Memory/main/Teensy41MemoryTop.png" width=50% height=50%>
+<img src="https://raw.githubusercontent.com/studiohsoftware/Teensy41Memory/main/Teensy41MemoryTop.png" width=10% height=10%>
