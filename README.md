@@ -3,4 +3,4 @@
 </br>
 https://oshpark.com/shared_projects/f5r7V8VG
 </br>
-![Teensy 4.1 64MB SPI Memory Board](Teensy41MemoryTop.png|width=20)
+![Teensy 4.1 64MB SPI Memory Board](Teensy41MemoryTop.png?raw=true)
