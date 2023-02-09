@@ -1,0 +1,5 @@
+Qty;	Value;		Device;		Package;	Parts;									Description;							MF;			MPN        
+5;		100n;		CB;			C0603;		C1, C2, C3, C4, C5;						Non-Polarized Capacitor;                                                             
+3;		10k;		RB;			R0603;		R1, R2, R3;								Resistor;                                                                             
+8;		APS6404L;	APS6404L;	SO-08;		IC1, IC2, IC3, IC4, IC5, IC6, IC7, IC8;	DRAM IoT RAM 64Mb QSPI;					AP-MEMORY;	APS6404L-3SQR-SN         
+1;		74LCX138;	74LCX138;	SO16;		IC9;									3-line to 8-line DECODER/DEMULTIPLEXER;	ON-SEMI;	MC74LCX138DR2G                                              
