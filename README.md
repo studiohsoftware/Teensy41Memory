@@ -3,4 +3,4 @@
 </br>
 https://oshpark.com/shared_projects/f5r7V8VG
 </br>
-![Teensy 4.1 64MB SPI Memory Board](Teensy41MemoryTop.png?raw=true)
+<img src="https://raw.githubusercontent.com/studiohsoftware/Teensy41Memory/main/Teensy41MemoryTop.png" width=50% height=50%>
